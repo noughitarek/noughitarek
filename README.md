@@ -60,6 +60,18 @@
 
 ---
 
+## 📌 Projects  
+
+🔹 **[Automatisation de la génération de code et du développement logiciel à l’aide de LLMs](https://github.com/noughitarek/LLM-Code-Generation-Software-Dev)**  
+🔹 **[Reconnaissance des Gestes Humains en Temps Réel pour l’Interaction Robotisée](https://github.com/noughitarek/Real-Time-Object-Detection-Robot-Interaction)**  
+🔹 **[Intégration du raisonnement sémantique et interrogation de graphes de connaissances](https://github.com/noughitarek/Knowledge-Graph-Integration-RDF)**  
+🔹 **[Apprentissage automatique métaheuristiques pour la détection de fraude par SIMBOX](https://github.com/noughitarek/fraud-detection)**  
+🔹 **[Détection d’objets basée sur l’IA pour le contrôle d’un jeu vidéo](https://github.com/noughitarek/Brick-Racing-2)**  
+🔹 **[Développement d’un Système Multi-Agent pour la Gestion d’une Vente aux Enchères](https://github.com/noughitarek/gestion-encheres)**  
+🔹 **[Apprentissage Automatique pour la Détection de Spams dans les E-mails](https://github.com/noughitarek/SpamGuardAI)**  
+
+---
+
 ## 📊 GitHub Stats  
 ![Tarek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noughitarek&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noughitarek&layout=compact&theme=radical)  
