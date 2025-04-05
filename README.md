@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/noughitarek/">LinkedIn</a> •
   <a href="https://github.com/noughitarek">GitHub</a> •
-  <a href="mailto:tarek.noughi@etu.u-pec.fr">Email</a>
+  <a href="mailto:tarek.noughi.dev@gmail.com">Email</a>
 </p>
 
 ## 🚀 About Me  
